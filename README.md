@@ -10,6 +10,10 @@ Eg:
 Human command : Go near to person with a laptop.
 Bot output : I reached to location body center(.............).
 
+# Result
+
+![alt text](
+
 # Setup
 
 The following instructions are necessary to set up Guided_LLM_nav.
