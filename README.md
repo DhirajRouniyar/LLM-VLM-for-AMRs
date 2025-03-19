@@ -16,7 +16,7 @@ Bot output : I reached to location body center(.............).
 
 # Result_Stage 2
 
-![alt text](https://github.com/DhirajRouniyar/LLM-VLM-for-AMRs/blob/main/Output/demo_stage1.gif)
+![alt text](https://github.com/DhirajRouniyar/LLM-VLM-for-AMRs/blob/main/Output/Stage2_output.png)
 
 # Setup
 
