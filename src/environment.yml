@@ -1,0 +1,32 @@
+name: pff_vlm
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - pip
+  - pip:
+      - clip
+      - setuptools
+      - setuptools_rust
+      - transformers
+      - torch
+      - torchvision
+      - torchaudio
+      - ftfy
+      - defusedxml
+      - pillow
+      - netifaces
+      - pyyaml
+      - empy==3.3.4
+      - git+https://github.com/openai/CLIP.git
+      - lap==0.4.0
+      - onnx==1.14.0
+      - urllib3==1.26.18
+      - opencv-python==4.7.0.72
+      - ultralytics
+      - rospkg
+      - rosdep
+      - defusedxml
+

@@ -1,0 +1,11 @@
+
+<launch>
+    <!-- Node for CLIP_processor_cosine.py -->
+    <node name="clip_processor" pkg="vlm-chat" type="CLIP_processor_cosine.py" output="screen" />
+
+    <!-- Node for chatGUI.py -->
+    <node name="chat_gui" pkg="vlm-chat" type="chatGUI.py" output="screen" />
+</launch>
+
+  
+
