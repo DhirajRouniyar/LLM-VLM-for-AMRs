@@ -12,7 +12,7 @@ Bot output : I reached to location body center(.............).
 
 # Result
 
-![alt text](
+![alt text](https://github.com/DhirajRouniyar/LLM-VLM-for-AMRs/blob/main/Output/demo_stage1.gif)
 
 # Setup
 
