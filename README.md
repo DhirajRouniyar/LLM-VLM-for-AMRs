@@ -8,7 +8,7 @@ There are two sections to run:
 Desktop run for sanity check of VLM_guide_LLM_robnav pipeline. Here, the data from bot is available from previous runs, refer below steps. Sanity check passes if the bbox coordinates output from Robot indicates the object to which the human command indicates.
 Eg: 
 Human command : Go near to person with a laptop.
-KILO output : I reached to location body center(.............).
+Bot output : I reached to location body center(.............).
 
 # Setup
 
