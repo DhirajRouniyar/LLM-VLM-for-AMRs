@@ -145,7 +145,7 @@ Further, the file location /catkin_ws/src/guided_llm_nav/data/input will be popu
 
 
 
-# Section 2: Run on Bot - KILO
+# Section 2: Run on Bot
 **1. Get real time data from bot, follow steps below:**
 **On local terminal type**
 ```shell
