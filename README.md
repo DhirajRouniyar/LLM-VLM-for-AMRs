@@ -1,6 +1,7 @@
 # LLM-VLM-for-AMRs
 
 Note: Stage 2 code is not published here since paper is under review - Targeted CVPR. Please contact dkrouniyar@wpi.edu 
+
       In Stage 2 -> LLM is guided by VLM to command bot to navigate in unknown environment based on human commands.
       In Stage 1 -> Only VLM is used for bot to navigate in unknown environment.
     
