@@ -10,7 +10,11 @@ Eg:
 Human command : Go near to person with a laptop.
 Bot output : I reached to location body center(.............).
 
-# Result
+# Result_Stage 1
+
+![alt text](https://github.com/DhirajRouniyar/LLM-VLM-for-AMRs/blob/main/Output/demo_stage1.gif)
+
+# Result_Stage 2
 
 ![alt text](https://github.com/DhirajRouniyar/LLM-VLM-for-AMRs/blob/main/Output/demo_stage1.gif)
 
