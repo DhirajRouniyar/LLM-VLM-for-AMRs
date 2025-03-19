@@ -1,5 +1,9 @@
 # LLM-VLM-for-AMRs
 
+Note: Stage 2 code is not published here since paper is under review - Targeted CVPR. Please contact dkrouniyar@wpi.edu 
+      In Stage 2 -> LLM is guided by VLM to command bot to navigate in unknown environment based on human commands.
+      In Stage 1 -> Only VLM is used for bot to navigate in unknown environment.
+    
 # Guided_LLM_nav
 
 Generative language models like GPT-2/3 are highly effective at generating text when prompted. However, how these models can be guided by non-text inputs, such as images, remains an open question. I propose a training-free framework called Guided_LLM_nav, which integrates visual controls into the text generation process, enabling multimodal tasks like zero-shot image captioning. Guided_LLM_nav leverages an off-the-shelf language model (e.g., GPT-2) and an image-text matching model VLM to guide text generation. During decoding, a ‘score’ ensures that the generated content aligns with the provided image and maintains coherence with prior context, all without gradient updates, ensuring computational efficiency. This framework allows LLMs to create accurate and contextually relevant descriptions of target image concepts while filtering out irrelevant details, with quality assessed by evaluating how well a receiver model identifies the described object.
